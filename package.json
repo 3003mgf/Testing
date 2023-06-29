@@ -1,0 +1,22 @@
+{
+  "name": "08-testing",
+  "version": "0.0.1",
+  "description": "Testing",
+  "main": "exercise1.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "jest",
+    "node.js"
+  ],
+  "author": "@MCIMGF",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
